@@ -1,4 +1,4 @@
-# My Understanding of DeBERTa Code
+# My Understanding of Bert model Code
 
 This repository contains my understanding of the DeBERTa model code, which is based on the original work by Microsoft.
 
